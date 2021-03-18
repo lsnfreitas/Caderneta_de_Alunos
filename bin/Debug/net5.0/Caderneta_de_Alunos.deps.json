@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Caderneta_de_Alunos/1.0.0": {
+        "runtime": {
+          "Caderneta_de_Alunos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Caderneta_de_Alunos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
